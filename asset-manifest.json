@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://paras-3.github.io/csb-r37g4/static/css/main.6cfff724.chunk.css",
+    "main.js": "https://paras-3.github.io/csb-r37g4/static/js/main.bb64d654.chunk.js",
+    "main.js.map": "https://paras-3.github.io/csb-r37g4/static/js/main.bb64d654.chunk.js.map",
+    "runtime-main.js": "https://paras-3.github.io/csb-r37g4/static/js/runtime-main.37afff11.js",
+    "runtime-main.js.map": "https://paras-3.github.io/csb-r37g4/static/js/runtime-main.37afff11.js.map",
+    "static/js/2.e8d6b5ed.chunk.js": "https://paras-3.github.io/csb-r37g4/static/js/2.e8d6b5ed.chunk.js",
+    "static/js/2.e8d6b5ed.chunk.js.map": "https://paras-3.github.io/csb-r37g4/static/js/2.e8d6b5ed.chunk.js.map",
+    "index.html": "https://paras-3.github.io/csb-r37g4/index.html",
+    "precache-manifest.cbb1a4af19543ae7ecc589c0dfe4e1c4.js": "https://paras-3.github.io/csb-r37g4/precache-manifest.cbb1a4af19543ae7ecc589c0dfe4e1c4.js",
+    "service-worker.js": "https://paras-3.github.io/csb-r37g4/service-worker.js",
+    "static/css/main.6cfff724.chunk.css.map": "https://paras-3.github.io/csb-r37g4/static/css/main.6cfff724.chunk.css.map",
+    "static/js/2.e8d6b5ed.chunk.js.LICENSE.txt": "https://paras-3.github.io/csb-r37g4/static/js/2.e8d6b5ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37afff11.js",
+    "static/js/2.e8d6b5ed.chunk.js",
+    "static/css/main.6cfff724.chunk.css",
+    "static/js/main.bb64d654.chunk.js"
+  ]
+}
